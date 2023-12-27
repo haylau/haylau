@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hayden</h1>
 <h3 align="center">A recent CSSE Graduate</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/haydenlauritzen/</h3>
 <p align="left">
 </p>
 
